@@ -6,15 +6,11 @@ Aplicação desktop desenvolvida em Java com Swing, focada em manipulação de e
 
 Esta calculadora simula o comportamento de calculadoras modernas, implementando operações matemáticas com tratamento de números decimais e controle interno de estados (A, operador e B).
 
-Projeto criado para reforçar fundamentos de:
-
-Programação Orientada a Objetos
-
-Event Handling (ActionListener)
-
-Manipulação de componentes gráficos
-
-Conversão e tratamento de dados numéricos
+                                                Projeto criado para reforçar fundamentos de:
+* Programação Orientada a Objetos
+* Event Handling (ActionListener)
+* Manipulação de componentes gráficos
+* Conversão e tratamento de dados numéricos
 
                                                           ⚙️ Funcionalidades
 
@@ -30,7 +26,5 @@ Conversão e tratamento de dados numéricos
 
 * Java
 * Swing (javax.swing)
-
-AWT (java.awt)
-
-Layout Managers (GridLayout, BorderLayout)
+* AWT (java.awt)
+* Layout Managers (GridLayout, BorderLayout)
