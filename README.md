@@ -1,32 +1,3 @@
-🧮 Calculadora em Java
+                                          🧮 Calculadora Desktop | Java & Swing
 
-Uma aplicação desktop desenvolvida em Java com Swing, simulando uma calculadora moderna com interface estilizada e operações matemáticas essenciais.
-
-✨ Funcionalidades
-
-🔹 Adição, Subtração, Multiplicação e Divisão
-🔹 Porcentagem (%)
-🔹 Inversão de sinal (+/-)
-🔹 Raiz quadrada (√)
-🔹 Suporte a números decimais
-🔹 Limpeza total (AC)
-
-🛠 Tecnologias Utilizadas
-
-Java
-
-Swing (javax.swing)
-
-AWT (java.awt)
-
-Programação Orientada a Objetos (POO)
-
-▶ Como Executar
-git clone https://github.com/DanloxBR/Calculadora-.git
-
-Abra na sua IDE e execute:
-
-Calculator.java
-👨‍💻 Daniel Santos Oliveira
-
-Desenvolvedor Java Jr | Backend & APIs
+Aplicação desktop desenvolvida em Java com Swing, focada em manipulação de eventos, controle de estado e organização de interface gráfica.
